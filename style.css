@@ -17,7 +17,7 @@ img{max-width:100%;display:block;border-radius:12px;transition:.4s;}
   display:flex;
   align-items:center;
   justify-content:center;
-  background:url('Images/Ai\ hero..jpg') no-repeat center/cover;
+  background:url('Images/Ai_hero.jpg') no-repeat center/cover;
   position:relative;
   overflow:hidden;
 }
@@ -167,3 +167,4 @@ footer a:hover{color:#ffffff;}
 
 /* RESPONSIVE */
 @media(max-width:700px){.navbar{flex-direction:column;}.hero h1{font-size:36px;}.about-content{flex-direction:column;}.stats-grid{flex-direction:column;gap:30px;}}
+
